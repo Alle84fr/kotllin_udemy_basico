@@ -74,4 +74,5 @@ IntelliJ IDEA Community Edition 2025.1.3
 ## 👩‍🎓 Autores 👨‍🏫
 
 Pedro Massango - desenvolvedor profissional Androi - professor
+
 Alessandra FR - criadora deste projeto - aluna
