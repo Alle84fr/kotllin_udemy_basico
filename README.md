@@ -10,7 +10,8 @@ https://www.udemy.com/course/kotlin-aprenda-do-zero-modulo-basico
 ## 📋 Descrição
 
 Aplicando os ensinamentos dados em aula e acrescentando outros confrome dúvidas ou curiosidades.
-O código estará com comentários explicando, um pouco, sobre o que está sendo visto, como:
+
+O código está com comentários explicando, um pouco, sobre o que está sendo visto, como:
 
 Atributos
 
@@ -63,13 +64,12 @@ IntelliJ IDEA Community Edition 2025.1.3
 <br>|
 <br>|-- kotlin_curso_udemy.iml
 <br>|
-<br>|--ExternalLibraries/
+<br>|-- README.md
 <br>|
-<br>|-- Scratches and Consoles
+<br>|-- ExternalLibraries/
 <br>|
-<br>|__README.md
-<br>
-<br>
+<br>|__ Scratches and Consoles
+
 
 ## 👩‍🎓 Autores 👨‍🏫
 
