@@ -2,7 +2,7 @@ fun main(args: Array<String>){
 
     /*
     Estrutura de repetição While
-
+    1° verifica, se for true executa
      */
 
     val num = arrayListOf<Int>()
