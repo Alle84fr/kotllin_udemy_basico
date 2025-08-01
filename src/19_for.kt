@@ -3,7 +3,7 @@ fun main(args: Array<String>){
 
     /*
     laço de repetição
-    para cada i na variável ...
+    para i na variável ...
     pega 1° item da variável e passa para o i (este i é muito usado no .py)
      */
 
